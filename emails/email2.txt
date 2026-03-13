@@ -1,0 +1,8 @@
+Subject: Shipment Delay
+
+Hello team,
+
+Order #8473 will be delayed by 7 days due to stock availability issues.
+Please notify the customer.
+
+Thanks
